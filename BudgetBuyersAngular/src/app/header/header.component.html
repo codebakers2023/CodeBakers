@@ -1,0 +1,41 @@
+<nav class="navbar navbar-light bg-light">
+    <img src="assets/images/logo.png" alt="image">
+    <div class="dropdown">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span></button>
+       <!-- <button class="dropbtn"><img src="assets/images/list.svg" alt="image" width="20px" height="20px"></button>>-->
+        <div class="dropdown-content" id="navbarToggleExternalContent">
+          <a href="#">Menu</a>
+          <a href="#">Category</a>
+          <a href="#">Help Desk</a>
+          <a href="#">Best Seller</a>
+          <a href="#">Contact us</a>
+      
+        </div>
+      </div>
+    
+      
+    
+     
+     <div class="search">
+       <form class="form-inline my-2 my-lg-0" [formGroup]="searchForm" (ngSubmit)="onSubmit()">
+        <input class="form-control mr-2" formControlName="query" type="text" style="width: 350px;" placeholder="Search ex.'Hp Laptop'" aria-label="Search" >
+        <button class="btn btn-dark" type="submit">Search</button>
+      </form>
+      </div>
+    
+         <div class="gps">
+          <img src="assets/images/GPS.png" alt="image" height="70px" width="8px" background-width="10px">
+    
+         </div>
+         <div class="heads">
+         <h6>Hello User</h6>
+        </div>
+        <div class="homie">
+        <button type="button" class="btn btn-dark" [routerLink]="['/home']">Logout</button>
+        </div>
+    
+    
+
+     
+   

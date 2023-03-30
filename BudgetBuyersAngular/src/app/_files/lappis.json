@@ -1,0 +1,514 @@
+
+[
+    {
+        "productImage":"assets/images/Vastro3510.png",
+        "productFullName":"Vostro3510",
+        "productDescription":"Dell New Vostro 3510 Laptop, Intel I3-1005G1, Windows 11 + Office'21, 8Gb Gddr4, 512Gb Ssd, 15.6 Inches (39.62Cms) Fhd Wva Ag, Carbon (Icc-D585033Win8) 1.8Kgs",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.0",
+                "sellerPrice":44990,
+                "delivery":"Free Delivery from DELL",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/vostro-3510-laptop/spd/vostro-15-3510-laptop/bts-icc-d585051win8"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":44590,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-vostro-core-i3-11th-gen-8-gb-512-gb-ssd-windows-11-home-3510-laptop/p/itm44f237e3b4b53"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":44590,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-vostro-3420-intel-core-i5-12th-gen-15-6-inch-8gb-512gb-windows-11-ms-office-2021-intel-uhd-full-hd-display-silver-d552317win9b-/p/269707"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.0",
+                "sellerPrice":41990,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-I3-1005G1-Office21-39-62Cms-Icc-D585033Win8/dp/B09TNXCZ3T/ref=sr_1_3?adgrpid=1326012629328140&hvadid=82876047599011&hvbmt=be&hvdev=c&hvlocphy=158537&hvnetw=o&hvqmt=e&hvtargid=kwd-82876676820493%3Aloc-90&hydadcr=26886_2090710&keywords=dell+vostro+3510+i3+11th+generation&qid=1679327538&sr=8-3"
+            }
+        ]
+    },
+    {
+      
+        "productImage":"assets/images/xps 13 2.png",
+        "productFullName":"XPS 13 2 in 1",
+        "productDescription":"Dell XPS 13 9370 Intel Core i5 - 8250 U 13.3 inches Laptop (8GB RAM/256 GB SSD/Windows 10 Home/UHD Graphics), 2kg",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.0",
+                "sellerPrice":139990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/xps-13-2-in-1-laptop/spd/xps-13-9315-2-in-1-laptop/d560076win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":128990,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-xps-15-core-i7-8th-gen-16-gb-512-gb-ssd-windows-10-home-4-graphics-9570-laptop/p/itmf8qxcv4k6hu9z"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":123649,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-xps-13-plus-intel-evo-core-i5-12th-gen-13-4-inch-16gb-512gb-windows-11-home-ms-office-2021-intel-iris-xe-graphics-uhd-plus-oled-display-platinum-silver-d560072win9s-/p/260849"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.1",
+                "sellerPrice":139999,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-XPS-9370-13-3-inch-Laptop/dp/B07B462TJM"
+            }
+    
+        ]
+    
+    },
+    {
+        "productImage":"assets/images/Vostro 35101.jpg",
+        "productFullName":"Vostro3510",
+        "productDescription":"Dell Vostro 3510 Laptop, Intel Core i5-1135G7, 8GB & 512GB SSD, 15.6' (39.62Cms) FHD WVA AG, Backlit KB, Win 11 + MSO'21, Titan Grey (BTS-ICC-D585021WIN8, 1.69KGs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.0",
+                "sellerPrice":56990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/vostro-3510-laptop/spd/vostro-15-3510-laptop/bts-icc-d585051win8"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":53490,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-vostro-3510-thin-light-laptop/p/itm62f90f9cbaa77"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":52411,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-vostro-3420-intel-core-i5-12th-gen-15-6-inch-8gb-512gb-windows-11-ms-office-2021-intel-uhd-full-hd-display-silver-d552317win9b-/p/269707"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"3.5",
+                "sellerPrice":50500,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-1135G7-Graphics-Windows-Backlit/dp/B09T5SJ4DP/ref=sr_1_2?adgrpid=1209463285547698&hvadid=75591587168913&hvbmt=be&hvdev=c&hvlocphy=158537&hvnetw=o&hvqmt=e&hvtargid=kwd-75591819585984%3Aloc-90&keywords=dell+vostro+3510+i5+11th+generation&qid=1679327094&sr=8-2"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/vostro3420.webp",
+        "productFullName":"Vostro3420",
+        "productDescription":"Dell Vostro 3420 Laptop - Intel i5-1135G7, 8GB DDR4 & 512GB SSD, Windows 11 + MSO'21, 14.0'/35.56Cms FHD WVA AG 250 nits Narrow Border, Carbon Black (D552281WIN9BE, 1.48Kgs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"3.8",
+                "sellerPrice":65990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/vostro-3420-laptop/spd/vostro-14-3420-laptop/m552322win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":63699,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-core-i5-11th-gen-8-gb-512-gb-ssd-windows-11-home-vostro-3510-thin-light-laptop/p/itm62f90f9cbaa77"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":61590,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-vostro-3420-intel-core-i5-12th-gen-15-6-inch-8gb-512gb-windows-11-ms-office-2021-intel-uhd-full-hd-display-silver-d552317win9b-/p/269707"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"3.5",
+                "sellerPrice":64200,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-Vostro-3420-Laptop-D552281WIN9BE/dp/B0B468JYQQ?th=1"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/Xps 13 2 in 1.png",
+        "productFullName":"XPS 13 2 in 1",
+        "productDescription":"Dell XPS 13 2-in-1, 13.4 inch FHD+ Touch Laptop - Intel Core i7-1065G7, 8GB LPDDR4 RAM, 256GB SSD HD, Intel iris, Windows 10 Home",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.0",
+                "sellerPrice":164990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/xps-13-2-in-1-laptop/spd/xps-13-9315-2-in-1-laptop/d560076win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.2",
+                "sellerPrice":153603,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-xps-15-core-i7-8th-gen-16-gb-512-gb-ssd-windows-10-home-4-graphics-9570-laptop/p/itmf8qxcv4k6hu9z"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":143999,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-xps-13-plus-intel-evo-core-i5-12th-gen-13-4-inch-16gb-512gb-windows-11-home-ms-office-2021-intel-iris-xe-graphics-uhd-plus-oled-display-platinum-silver-d560072win9s-/p/260849"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.0",
+                "sellerPrice":130999,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.com/Dell-13-4-inch-Touch-Laptop/dp/B08PV3W9RS"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/XPS 13 Plus.png",
+        "productFullName":"XPS 13 Plus",
+        "productDescription":"Dell XPS 13 Plus Laptop, Intel i5-1240P, 16GB LP DDR5 & 512GB SSD, 13.4' (34.03Cms) UDH+ AR Infinity Edge 500 nits Touch, Backlit KB + Fingerprint Reader, Platinum (D560072WIN9S, 1.24Kgs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.0",
+                "sellerPrice":165990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/new-xps-13-plus-laptop/spd/xps-13-9320-laptop/d560072win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":167777,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-xps-15-core-i7-8th-gen-16-gb-512-gb-ssd-windows-10-home-4-graphics-9570-laptop/p/itmf8qxcv4k6hu9z"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":173990,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-xps-13-plus-intel-evo-core-i5-12th-gen-13-4-inch-16gb-512gb-windows-11-home-ms-office-2021-intel-iris-xe-graphics-uhd-plus-oled-display-platinum-silver-d560072win9s-/p/260849"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.1",
+                "sellerPrice":194000,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-XPS-i5-1240P-Fingerprint-D560072WIN9S/dp/B0BCG2V6X3"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/G151.png",
+        "productFullName":"G15 Gaming",
+        "productDescription":"Dell G15-5521 Gaming Laptop,Intel i9-12900H,16GB DDR5, 1TB SSD,NVIDIA GEFORCE RTX 3070 Ti (8GB GDDR6), 15.6'(39.62Cms)QHD WVA AG 240 Hz 400 nits,Win 11+ MSO'21, Obsidian Black (D560899WIN9S, 2.81Kgs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.2",
+                "sellerPrice":18899,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/g15-gaming-laptop/spd/g-series-15-5520-laptop/d560899win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.1",
+                "sellerPrice":180990,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-core-i9-12th-gen-16-gb-1-tb-ssd-windows-11-home-8-gb-graphics-nvidia-geforce-rtx-3070-ti-g15-gaming-laptop/p/itm27a9b71c0d674"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":192199,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-g15-intel-core-i9-12th-gen-15-6-inch-16gb-1tb-windows-11-home-ms-office-2021-nvidia-geforce-rtx-3070-ti-qhd-led-backlit-display-obsidian-black-d560899win9s-/p/263962"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"3.5",
+                "sellerPrice":180990,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-G15-5521-Gaming-i9-12900H-D560899WIN9S/dp/B0BHYQF226"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/G152.png",
+        "productFullName":"G15 Gaming",
+        "productDescription":"Dell G15 5520 Windows 11 Gaming Laptop, Intel i7-12700H, 16GB, 512Gb, NVIDIA RTX 3050 Ti (4GB GDDR6), 15.6' - 39.62Cms FHD WVA AG 120Hz 250 nits, Backlit KB Orange, Shadow Grey, 2.81Kgs - D560823WIN9B",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.2",
+                "sellerPrice":152990,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/g15-gaming-laptop/spd/g-series-15-5520-laptop/d560899win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.0",
+                "sellerPrice":108500,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-g15-core-i7-12th-gen-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-ti-g15-5520-gaming-laptop/p/itm77eb3377687fe"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.3",
+                "sellerPrice":108399,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-g15-inspiron-5520-intel-core-i7-12th-gen-15-6-inch-16gb-512gb-windows-11-ms-office-2021-nvidia-geforce-rtx-3050-ti-graphics-fhd-led-backlit-display-dark-shadow-grey-d560823win9b-/p/252183"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"3.4",
+                "sellerPrice":108100,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-Windows-Gaming-Laptop-i7-12700H/dp/B09XXNKLBF/ref=sr_1_2?keywords=dell+g15+i7+12th+gen&qid=1678697316&sr=8-2"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/G15.png",
+        "productFullName":"G15 Gaming",
+        "productDescription":"Dell New G15 5520 Gaming Laptop,Intel i5-12500H,16GB,512GB SSD,Win 11,NVIDIA RTX 3050 (4GB GDDR6),15.6' (39.62Cms) FHD WVA AG 120Hz 250 nits,Backlit KB Orange,Dark Shadow Grey,2.81Kgs(D560822WIN9B)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.2",
+                "sellerPrice":88490,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/g15-gaming-laptop/spd/g-series-15-5520-laptop/d560899win9s"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.2",
+                "sellerPrice":88701,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-g15-core-i5-12th-gen-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-g15-5520-gaming-laptop/p/itmd02c3f36a6f12"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"5.0",
+                "sellerPrice":84990,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-inspiron-15-5520-intel-core-i5-12th-gen-15-6-inch-16gb-512gb-windows-11-ms-office-2021-nvidia-geforce-rtx-3050-graphics-fhd-led-backlit-display-dark-shadow-grey-d560822win9b-/p/252184"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.0",
+                "sellerPrice":84701,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-i5-12500H-39-62Cms-Backlit-D560822WIN9B/dp/B09XXM57T2?th=1"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/g15.avif",
+        "productFullName":"G15 Gaming",
+        "productDescription":"Dell G15-5515 Gaming Laptop, AMD Ryzen5-5600H, Win 11+MSO'21, 8GB GDDR4, 512Gb SSD, Nvidia RTX 3050 (4Gb FDDR6), 15.6' (39.62Cms) FHD WVA AG 250 Nits 120Hz, Orange Backlit KB (D560804WIN9W, 2.57Kgs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.1",
+                "sellerPrice":82990,
+                "delivery":"Free Delivery from DELL",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/g15-gaming-laptop/spd/g-series-15-5525-laptop/d560818win9b"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.6",
+                "sellerPrice":72790,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-g15-ryzen-5-hexa-core-amd-r5-5600h-8-gb-512-gb-ssd-windows-10-4-graphics-nvidia-geforce-rtx-3050-g15-5515-gaming-laptop/p/itm5ce555e125ede"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":84777,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-inspiron-15-5520-intel-core-i5-12th-gen-15-6-inch-16gb-512gb-windows-11-ms-office-2021-nvidia-geforce-rtx-3050-graphics-fhd-led-backlit-display-dark-shadow-grey-d560822win9b-/p/252184"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.0",
+                "sellerPrice":76809,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-G15-5515-Ryzen5-5600H-Windows-D560804Win9W/dp/B09TNXH51N?th=1"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/Alienware x14 Gaming Laptop.png",
+        "productFullName":"Alienware X14",
+        "productDescription":"Dell Alienware x14 Gaming Laptop, Intel i7-12700H, 14' (35.5cm) FHD 144Hz 400nits GSYNC+ Advanced Optimus,32GB DDR5,1TB SSD,Nvidia RTX 3060 6GB,Dolby Atmos,Windows 11,Lunar Light(1.84 kgs) D569939WIN9",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.3",
+                "sellerPrice":179989.98,
+                "delivery":"Free Delivery from DELL" ,
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/alienware-x14-gaming-laptop/spd/alienware-x14-r1-laptop/d569938win9"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.8",
+                "sellerPrice":176490,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-allienware-core-i7-12th-gen-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-ti-alienware-x14-gaming-laptop/p/itm33b8d41bf3fa8"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":210399,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-alienware-x14-r1-intel-core-i7-12th-gen-14-inch-32gb-1tb-windows-11-ms-office-2021-nvidia-geforce-rtx-3060-graphics-fhd-led-backlit-display-lunar-light-d569939win9-/p/252185"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":3.7,
+                "sellerPrice":207980,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Alienware-i7-12700H-400nits-Advanced-D569939WIN9/dp/B09WY78WLX"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/Alienware x15 R2 Gaming.png",
+        "productFullName":"Alienware X15",
+        "productDescription":"Dell New Alienware x15 R2 Gaming Laptop, Intel i9-12900H, Win11+MSO'21 , 32GB LP DDR5, 1TB SSD, NVIDIA RTX 3080 Ti (16GB GDDR6), 15.6' (39.62Cms) FHD 360Hz 300nits, AlienFX KB (D569942WIN9, 2.34Kgs)",
+        "company":[
+            {
+                "sellerImage":"assets/images/delllogoss.png",
+                "customerRating":"4.2",
+                "sellerPrice":304990,
+                "delivery":"Free Delivery from DELL",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.dell.com/en-in/shop/gaming-and-games/alienware-x15-r2-gaming-laptop/spd/alienware-x15-r2-laptop/d569947win9"
+            },
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.8",
+                "sellerPrice":355990,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-allienware-core-i9-12th-gen-32-gb-1-tb-ssd-windows-11-home-16-gb-graphics-nvidia-geforce-rtx-3080-ti-alienware-x15-r2-gaming-laptop/p/itm8de9c56df7d85"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.1",
+                "sellerPrice":375599,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-alienware-x15-intel-core-i9-12th-gen-15-6-inch-32gb-1tb-windows-11-ms-office-2021-nvidia-geforce-rtx-3080-ti-graphics-fhd-ips-display-lunar-https://www.croma.com/dell-alienware-x15-intel-core-i9-12th-gen-15-6-inch-32gb-1tb-windows-11-ms-office-2021-nvidia-geforce-rtx-3080-ti-graphics-fhd-ips-display-lunar-light-d569942win9-/p/250604"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"3.5",
+                "sellerPrice":356600,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-Alienware-i9-12900H-39-62Cms-D569942WIN9/dp/B09TP13BDV"
+            }
+        ]
+    },
+    {
+        "productImage":"assets/images/vostro3420.webp",
+        "productFullName":"Vostro 3405",
+        "productDescription":"Dell New Vostro 3405 Laptop AMD Ryzen 3-3250U 14 inches (35.5cm) FHD Display, 8GB DDR4, 512GB SSD, Windows 11 + MS Office'21, Radeon Graphics, Black (D552235WIN9B), 1.59Kgs",
+        "company":[
+            
+            {
+                "sellerImage":"assets/images/flip.webp",
+                "customerRating":"4.3",
+                "sellerPrice":46399,
+                "delivery":"Free Delivery from Flipkart",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.flipkart.com/dell-vostro-3405-ryzen-5-quad-core-3450u-8-gb-256-gb-ssd-windows-10-home-thin-light-laptop/p/itmd68443b82db48"
+            },
+            {
+                "sellerImage":"assets/images/cromas.webp",
+                "customerRating":"4.0",
+                "sellerPrice":38990,
+                "delivery":"Free Delivery from Croma",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.croma.com/dell-vostro-3405-amd-ryzen-3-14-inch-8gb-512gb-windows-11-ms-office-2021-amd-radeon-graphics-fhd-display-carbon-black-d552235win9b-/p/252897"
+            },
+            {
+                "sellerImage":"assets/images/amazonlogo.webp",
+                "customerRating":"4.0",
+                "sellerPrice":46789,
+                "delivery":"Free Delivery from Amazon",
+                "deliveryDay":"Get it by Tuesday,4 April",
+                "sellerUrl":"https://www.amazon.in/Dell-3405-Office21-Graphics-D552235WIN9B/dp/B09NLR6HJB?th=1"
+            }
+        ]
+    }
+]
+
+
+
+    
+  
+
+
+

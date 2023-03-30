@@ -1,0 +1,39 @@
+
+<div class="container" style="max-width:600px;background-color:white;">
+    <h2 class="textual" style="background-color:white;">User Registration</h2>
+    <form #registrationform="ngForm" (ngSubmit)="registerUser()">
+      <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control" placeholder="Enter email" name="email" [(ngModel)]="customer.emailId" required pattern="^\w+([\.+-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" 
+         #email="ngModel"                                                                       
+           [class.is-invalid]="email.invalid && email.touched"
+        >
+      <div *ngIf="email.errors && (email.invalid && email.touched)">
+        <small class="text-danger" *ngIf="email.errors?.['required']">Email Id is required field</small>
+      <small class="text-danger" *ngIf="email.errors?.['pattern']">Enter the valid emailId</small>
+    </div>
+    <div class="form-group">
+        <label for="username">UserName:</label>
+        <input type="username" class="form-control"  placeholder="Enter username" name="username" [(ngModel)]="customer.userName" required #username="ngModel"
+        [class.is-invalid]="username.invalid && username.touched">
+        <small class="text-danger"[class.d-none]="username.valid || username.untouched">username is required field</small> 
+      </div>
+      <div class="form-group">
+        <label for="pwd">Password:</label>
+        <input type="password" class="form-control"  placeholder="Enter password" name="pwd" [(ngModel)]="customer.password" required #password="ngModel"
+        [class.is-invalid]="password.invalid && password.touched">
+        <small class="text-danger"[class.d-none]="password.valid || password.untouched">Password is required field</small> 
+      </div>
+      <div class="form-group">
+        <label for="pwd">Confirm Password:</label>
+        <input type="password" class="form-control"  placeholder="Enter Confirm password" name="cpwd" (ngModel)="customer.password" required #cpassword="ngModel"
+        [class.is-invalid]="cpassword.invalid && cpassword.touched">
+        <small class="text-danger"[class.d-none]="(cpassword.value==cpassword.value) || password.untouched">Password & confirm Password must be same</small> 
+      </div>
+      <div class="checkbox">
+        <label><input type="checkbox" name="remember"> Remember me</label>
+      </div>
+      <button [disabled]="registrationform.form.invalid" type="submit" class="btn btn-dark" >Register</button>
+      
+    <button class="btn btn-dark" [routerLink]="['/login']" style="margin-left: 50px;" > Existing User ? Login here</button>
+  </div>

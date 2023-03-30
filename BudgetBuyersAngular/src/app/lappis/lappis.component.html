@@ -1,0 +1,68 @@
+
+          
+
+
+   
+<!--<div class="container">
+<ul style="list-style: none;" *ngFor="let la of filteredData">
+    <li ><h2>{{ la.productFullName }}</h2></li>
+    <li>{{ la.productDescription}}</li>
+    <ul style="list-style: none;"*ngFor="let info of la.company">   
+        <div class="con">
+       <li> <img [src]="info.sellerImage"/></li>
+    </div> 
+        <li>{{info.sellerPrice|currency:'INR'}}</li>   
+        <a href={{info.sellerUrl}} target="_blank">
+            <button type="button">Let's Check</button>
+        </a>
+    </ul>
+</ul>
+</div>
+-->
+<app-head></app-head> 
+<div class="container" >
+            
+            <ul style="list-style: none;" *ngFor="let la of filteredData">
+                <div class="border border-light">
+                 <div class="row mx-lg-n5">
+                    <div class="col py-3 px-lg-5 ">
+                
+                <li> <img [src]="la.productImage" width="500px" height="300px" /></li>
+                </div>
+                <div class="col py-3 px-lg-5" >
+                    <br>
+                    <br>
+                    <br>
+                    <li ><h2>{{ la.productFullName }}</h2></li>
+                    <li>{{ la.productDescription}}</li>
+                </div>
+
+            </div>
+                <div class="row">
+                    <ul style="list-style: none;" *ngFor="let info of la.company">   
+                        <div class="border border-light" >
+                       <li> <img [src]="info.sellerImage" width="120px" height="30px"/></li>
+                       <li>Rating:{{info.customerRating}}</li>
+                        <li>{{info.sellerPrice|currency:'INR'}}</li>  
+                        <li>{{info.delivery}}</li>
+                        <li>{{info.deliveryDay}}</li>
+                        <a href={{info.sellerUrl}} target="_blank">
+                            <button type="button" class="btn btn-dark">Buy Now</button>
+                            <br><br>
+
+                        </a>
+                    </div>
+                    </ul>
+                </div>
+                </div>
+            </ul>
+        </div>
+
+                
+               
+    
+      
+    
+       
+    
+  
